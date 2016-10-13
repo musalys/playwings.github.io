@@ -15,7 +15,7 @@ timezone: Asia/Seoul
 paginateLabel: page
 paginate_path: "page/:num"
 permalink: /:categories/:year/:month/:day/:title
-baseurl: http://playwings.github.io
+baseurl: ""
 
 # Includes
 addthisId: ""
